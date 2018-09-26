@@ -43,9 +43,7 @@ Tasks:
 If you are not using docker, just run the commands without logging in to the container.
 1. Log in to you docker container:
     * `docker run -it kristiania/hadoop`
-    * Start the hadoop processes:
-
-      `./start`
+    
 2. Create a directory:
   * Use `-mkdir` to create a directory. E.g.
 
